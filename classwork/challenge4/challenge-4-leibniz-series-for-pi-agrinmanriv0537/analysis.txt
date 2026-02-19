@@ -1,0 +1,1 @@
+As each term is added to the summation, the error is getting consistently smaller. This means that the approximation is getting more accurate with every term added.
